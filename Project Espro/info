@@ -1,0 +1,1690 @@
+{
+  "uuid": "7c0b664edfb663888da73a5ccc20cfe4",
+  "path": "Offline/Project%20Espro",
+  "name": "Project Espro",
+  "content": "",
+  "created_at": "2024-11-12 12:50:29",
+  "updated_at": "2025-03-26 14:43:46",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "634cf6f61788c49f12a14e433e5b721a",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "fa33d4808b42d46b96893a5da4a98304": 1,
+        "8c872b96dafa0c24fa416086ef6a4b76": 1,
+        "320400870eb297eb1df26973a3a5a9f4": 1,
+        "612bd83f607245479f3ee762a344a98e": 1,
+        "3c4dc3c7b7851d7a5a13c7587fad60ec": 1,
+        "aa1bce4e8ef044b0aa51900decb41b97": 2,
+        "7f3c6ded8eb342c7841af2d008d976cb": 1,
+        "e9665e0c81fa469396b88822955bfc9e": 1,
+        "6a4014184e324ee78822e76881d8a383": 4,
+        "f4b060a541294bacb5c2ab48f58ace1b": 1,
+        "67c9c18da5784726a9f77f73e7a4a7e1": 1,
+        "e13c8563a76c4080be8a7a020ef3a572": 1,
+        "5a162a30a65741b0bab0c81046af61fb": 2,
+        "8e06176593c83cb1ac26267a81465057": 5,
+        "fa776220301440be94e47ccd32b8a0e5": 2,
+        "645f7b8052024a198a97a954df35d9be": 3,
+        "f5ddbd27d1434670877eef41d0bcb3f4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HT7333-3",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "3V",
+          {
+            "Manufacturer Part": "HT7333-3",
+            "Manufacturer": "HOLTEK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84207"
+          }
+        ],
+        [
+          "5V",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "5V",
+          {
+            "Manufacturer Part": "AMS1117-5.0",
+            "Manufacturer": "Slkor(萨科微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C880753"
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "HGC0603R5226M100NTHJ",
+            "Manufacturer": "Chinocera(华瓷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7432770"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "CGA0603X5R106K100JT",
+            "Manufacturer": "HRE(芯声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6119842"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C3,C4,C7",
+          {
+            "Manufacturer Part": "CGA0603X7R104K500JT",
+            "Manufacturer": "HRE(芯声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6119867"
+          }
+        ],
+        [
+          "22pF",
+          2,
+          "C0603",
+          "C5,C6",
+          {
+            "Manufacturer Part": "CC0603JRNPO9BN220",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C105620"
+          }
+        ],
+        [
+          "SS36",
+          1,
+          "SMA_L4.3-W2.6-LS5.2-RD",
+          "D1",
+          {
+            "Manufacturer Part": "SS36",
+            "Manufacturer": "MDD",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16015"
+          }
+        ],
+        [
+          "X6511WV-15H-C30D60",
+          2,
+          "HDR-TH_15P-P2.54-V-M",
+          "H1,H2",
+          {
+            "Manufacturer Part": "X6511WV-15H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C725947"
+          }
+        ],
+        [
+          "X6511WV-06H-C30D60",
+          1,
+          "HDR-TH_6P-P2.54-V-M",
+          "H3",
+          {
+            "Manufacturer Part": "X6511WV-06H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C706878"
+          }
+        ],
+        [
+          "TX",
+          1,
+          "LED0603-RD_1",
+          "LED1",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "RX",
+          1,
+          "LED0603-RD_1",
+          "LED2",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "Power",
+          1,
+          "LED0603-RD_1",
+          "LED3",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "D13",
+          1,
+          "LED0603-RD_1",
+          "LED4",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "5.1kΩ",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "Manufacturer Part": "FRC0603F5101TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2907044"
+          }
+        ],
+        [
+          "1kΩ",
+          5,
+          "R0603",
+          "R3,R4,R5,R6,R7",
+          {
+            "Manufacturer Part": "RC0603FR-071KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22548"
+          }
+        ],
+        [
+          "Reset",
+          1,
+          "SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6-1",
+          "SW1",
+          {
+            "Manufacturer Part": "TS3425BA",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2681476"
+          }
+        ],
+        [
+          "ATMEGA328P-AU",
+          1,
+          "TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "ATMEGA328P-AU",
+            "Manufacturer": "MICROCHIP",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14877"
+          }
+        ],
+        [
+          "CH340N",
+          1,
+          "SOP-8_L5.0-W4.0-P1.27-LS6.0-BL",
+          "U2",
+          {
+            "Manufacturer Part": "CH340N",
+            "Manufacturer": "WCH(Jiangsu Qin Heng)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C506813"
+          }
+        ],
+        [
+          "TYPE-C16PIN",
+          1,
+          "USB-C-SMD_TYPE-C16PIN",
+          "USB1",
+          {
+            "Manufacturer Part": "TYPE-C16PIN",
+            "Manufacturer": "SHOU HAN",
+            "Supplier": "LCSC",
+            "Supplier Part": "C393939"
+          }
+        ],
+        [
+          "16MHz",
+          1,
+          "OSC-SMD_4P-L3.2-W2.5-BL",
+          "X1",
+          {
+            "Manufacturer Part": "X322516MLB4SI",
+            "Manufacturer": "YXC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13738"
+          }
+        ]
+      ],
+      "updateTime": 1742971426,
+      "createTime": 1731387029,
+      "histories": [],
+      "created_at": "2024-11-12 12:50:29",
+      "updated_at": "2025-03-26 14:43:46"
+    },
+    {
+      "uuid": "2fb52b89e1c7450f6715a42a7938a9ec",
+      "puuid": "7c0b664edfb663888da73a5ccc20cfe4",
+      "title": "PCB_Project Espro Block II",
+      "filename": "PCB_Project Espro Block II.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 7,
+        "bcfb063b67ff49cbac709cca5af36bb2": 4,
+        "398691f1f785460098bbe5ee6590333c": 7,
+        "c0ec5daae71444bb93b95ec9f0b47f5a": 1,
+        "9c6dab9dc91e4b929269cb3454d6d713": 1,
+        "6d4ccf98d88248ecab1247f9e0c9ea9d": 1,
+        "b7243d11a5f04fb7894887aaa3569585": 1,
+        "89243c15a2974ba08305eced8ca2c9d4": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1,
+        "fde525906f004b04890fe3f9fe02cca8": 1,
+        "0d139e62728a49b09c74d4ad035ce944": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "06036D226MAT2A",
+            "Manufacturer": "AVX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C140720"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "JMK107ABJ106KA-T",
+            "Manufacturer": "Taiyo Yuden",
+            "Supplier": "LCSC",
+            "Supplier Part": "C319196"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C3,C4,C7",
+          {
+            "Manufacturer Part": "CL10C220JB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1653"
+          }
+        ],
+        [
+          "22pF",
+          2,
+          "C0603",
+          "C5,C6",
+          {
+            "Manufacturer Part": "CL10C220JB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1653"
+          }
+        ],
+        [
+          "SS36",
+          1,
+          "SMA_L4.3-W2.6-LS5.2-RD",
+          "D1",
+          {
+            "Manufacturer Part": "SS36",
+            "Manufacturer": "MDD",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16015"
+          }
+        ],
+        [
+          "X6511WV-15H-C30D60",
+          2,
+          "HDR-TH_15P-P2.54-V-M",
+          "H1,H2",
+          {
+            "Manufacturer Part": "X6511WV-15H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C725947"
+          }
+        ],
+        [
+          "X6511WV-06H-C30D60",
+          1,
+          "HDR-TH_6P-P2.54-V-M",
+          "H3",
+          {
+            "Manufacturer Part": "X6511WV-06H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C706878"
+          }
+        ],
+        [
+          "TX",
+          1,
+          "LED0603-RD_1",
+          "TX",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "RX",
+          1,
+          "LED0603-RD_1",
+          "RX",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "Power",
+          1,
+          "LED0603-RD_1",
+          "PW",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "D13",
+          1,
+          "LED0603-RD_1",
+          "D13",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "5.1K",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "Manufacturer Part": "RMC06035.1K5%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269696"
+          }
+        ],
+        [
+          "1K",
+          5,
+          "R0603",
+          "R3,R4,R5,R6,R7",
+          {
+            "Manufacturer Part": "RMC06031K1%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269704"
+          }
+        ],
+        [
+          "Reset",
+          1,
+          "SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6-1",
+          "RST",
+          {
+            "Manufacturer Part": "TS3425BA",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2681476"
+          }
+        ],
+        [
+          "ATMEGA328P-AU",
+          1,
+          "TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "ATMEGA328P-AU",
+            "Manufacturer": "MICROCHIP",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14877"
+          }
+        ],
+        [
+          "AMS1117",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "5V",
+          {
+            "Manufacturer Part": "AMS1117-5.0",
+            "Manufacturer": "Slkor(萨科微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C880753"
+          }
+        ],
+        [
+          "CH340N",
+          1,
+          "SOP-8_L5.0-W4.0-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "CH340N",
+            "Manufacturer": "WCH(Jiangsu Qin Heng)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C506813"
+          }
+        ],
+        [
+          "HT7333-3",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "3V",
+          {
+            "Manufacturer Part": "HT7333-3",
+            "Manufacturer": "HOLTEK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84207"
+          }
+        ],
+        [
+          "16MHz",
+          1,
+          "OSC-SMD_4P-L3.2-W2.5-BL",
+          "X1",
+          {
+            "Manufacturer Part": "X322516MLB4SI",
+            "Manufacturer": "YXC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13738"
+          }
+        ],
+        [
+          "TYPE-C16PIN",
+          1,
+          "USB-C-SMD_TYPE-C16PIN",
+          "USB1",
+          {
+            "Manufacturer Part": "TYPE-C16PIN",
+            "Manufacturer": "SHOU HAN",
+            "Supplier": "LCSC",
+            "Supplier Part": "C393939"
+          }
+        ]
+      ],
+      "updateTime": 1732089963,
+      "createTime": 1731473914,
+      "histories": [],
+      "created_at": "2024-11-13 12:58:34",
+      "updated_at": "2024-11-20 16:06:03"
+    },
+    {
+      "uuid": "8712ab281a882abec175f9551a6f0f4c",
+      "puuid": "7c0b664edfb663888da73a5ccc20cfe4",
+      "title": "PCB_Project Espro",
+      "filename": "PCB_Project Espro.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 7,
+        "f8151fdc728a41ebbc304e11d39e5437": 7,
+        "b7243d11a5f04fb7894887aaa3569585": 1,
+        "89243c15a2974ba08305eced8ca2c9d4": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1,
+        "fde525906f004b04890fe3f9fe02cca8": 1,
+        "0d139e62728a49b09c74d4ad035ce944": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1,
+        "bcfb063b67ff49cbac709cca5af36bb2": 4,
+        "c0ec5daae71444bb93b95ec9f0b47f5a": 1,
+        "9c6dab9dc91e4b929269cb3454d6d713": 1,
+        "6d4ccf98d88248ecab1247f9e0c9ea9d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "5.1K",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "Manufacturer Part": "RMC06035.1K5%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269696"
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "06036D226MAT2A",
+            "Manufacturer": "AVX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C140720"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "JMK107ABJ106KA-T",
+            "Manufacturer": "Taiyo Yuden",
+            "Supplier": "LCSC",
+            "Supplier Part": "C319196"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C3,C7,C4",
+          {
+            "Manufacturer Part": "CL10C220JB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1653"
+          }
+        ],
+        [
+          "22pF",
+          2,
+          "C0603",
+          "C5,C6",
+          {
+            "Manufacturer Part": "CL10C220JB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1653"
+          }
+        ],
+        [
+          "D1",
+          1,
+          "SMA_L4.3-W2.6-LS5.2-RD",
+          "D1",
+          {
+            "Manufacturer Part": "SS36",
+            "Manufacturer": "MDD",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16015"
+          }
+        ],
+        [
+          "AMS1117",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "5V",
+          {
+            "Manufacturer Part": "AMS1117-5.0",
+            "Manufacturer": "Slkor(萨科微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C880753"
+          }
+        ],
+        [
+          "CH340N",
+          1,
+          "SOP-8_L5.0-W4.0-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "CH340N",
+            "Manufacturer": "WCH(Jiangsu Qin Heng)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C506813"
+          }
+        ],
+        [
+          "HT7333-3",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "3V",
+          {
+            "Manufacturer Part": "HT7333-3",
+            "Manufacturer": "HOLTEK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84207"
+          }
+        ],
+        [
+          "16MHz",
+          1,
+          "OSC-SMD_4P-L3.2-W2.5-BL",
+          "X1",
+          {
+            "Manufacturer Part": "X322516MLB4SI",
+            "Manufacturer": "YXC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13738"
+          }
+        ],
+        [
+          "X6511WV-15H-C30D60",
+          2,
+          "HDR-TH_15P-P2.54-V-M",
+          "H1,H2",
+          {
+            "Manufacturer Part": "X6511WV-15H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C725947"
+          }
+        ],
+        [
+          "X6511WV-06H-C30D60",
+          1,
+          "HDR-TH_6P-P2.54-V-M",
+          "H3",
+          {
+            "Manufacturer Part": "X6511WV-06H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C706878"
+          }
+        ],
+        [
+          "TX",
+          1,
+          "LED0603-RD_1",
+          "T",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "RX",
+          1,
+          "LED0603-RD_1",
+          "R",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "Power",
+          1,
+          "LED0603-RD_1",
+          "P",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "D13",
+          1,
+          "LED0603-RD_1",
+          "L",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "1K",
+          5,
+          "R0603",
+          "R3,R4,R5,R6,IK",
+          {
+            "Manufacturer Part": "RMC06031K1%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269704"
+          }
+        ],
+        [
+          "Reset",
+          1,
+          "SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6-1",
+          "RST",
+          {
+            "Manufacturer Part": "TS3425BA",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2681476"
+          }
+        ],
+        [
+          "ATMEGA328P-AU",
+          1,
+          "TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "ATMEGA328P-AU",
+            "Manufacturer": "MICROCHIP",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14877"
+          }
+        ],
+        [
+          "TYPE-C16PIN",
+          1,
+          "USB-C-SMD_TYPE-C16PIN",
+          "USB1",
+          {
+            "Manufacturer Part": "TYPE-C16PIN",
+            "Manufacturer": "SHOU HAN",
+            "Supplier": "LCSC",
+            "Supplier Part": "C393939"
+          }
+        ]
+      ],
+      "updateTime": 1732074711,
+      "createTime": 1731560050,
+      "histories": [],
+      "created_at": "2024-11-14 12:54:10",
+      "updated_at": "2024-11-20 11:51:51"
+    },
+    {
+      "uuid": "cd1b3856c1a2e83a79b92155015aff20",
+      "puuid": "7c0b664edfb663888da73a5ccc20cfe4",
+      "title": "PCB_Project Espro Block III",
+      "filename": "PCB_Project Espro Block III.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 7,
+        "f8151fdc728a41ebbc304e11d39e5437": 7,
+        "b7243d11a5f04fb7894887aaa3569585": 1,
+        "89243c15a2974ba08305eced8ca2c9d4": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1,
+        "fde525906f004b04890fe3f9fe02cca8": 1,
+        "0d139e62728a49b09c74d4ad035ce944": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1,
+        "bcfb063b67ff49cbac709cca5af36bb2": 4,
+        "c0ec5daae71444bb93b95ec9f0b47f5a": 1,
+        "9c6dab9dc91e4b929269cb3454d6d713": 1,
+        "6d4ccf98d88248ecab1247f9e0c9ea9d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "06036D226MAT2A",
+            "Manufacturer": "AVX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C140720"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "JMK107ABJ106KA-T",
+            "Manufacturer": "Taiyo Yuden",
+            "Supplier": "LCSC",
+            "Supplier Part": "C319196"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C3,C4,C7",
+          {
+            "Manufacturer Part": "CL10C220JB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1653"
+          }
+        ],
+        [
+          "22pF",
+          2,
+          "C0603",
+          "C5,C6",
+          {
+            "Manufacturer Part": "CL10C220JB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1653"
+          }
+        ],
+        [
+          "SS36",
+          1,
+          "SMA_L4.3-W2.6-LS5.2-RD",
+          "D1",
+          {
+            "Manufacturer Part": "SS36",
+            "Manufacturer": "MDD",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16015"
+          }
+        ],
+        [
+          "X6511WV-15H-C30D60",
+          2,
+          "HDR-TH_15P-P2.54-V-M",
+          "H1,H2",
+          {
+            "Manufacturer Part": "X6511WV-15H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C725947"
+          }
+        ],
+        [
+          "X6511WV-06H-C30D60",
+          1,
+          "HDR-TH_6P-P2.54-V-M",
+          "H3",
+          {
+            "Manufacturer Part": "X6511WV-06H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C706878"
+          }
+        ],
+        [
+          "TX",
+          1,
+          "LED0603-RD_1",
+          "TX",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "RX",
+          1,
+          "LED0603-RD_1",
+          "RX",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "Power",
+          1,
+          "LED0603-RD_1",
+          "PW",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "D13",
+          1,
+          "LED0603-RD_1",
+          "D13",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "5.1K",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "Manufacturer Part": "RMC06035.1K5%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269696"
+          }
+        ],
+        [
+          "1K",
+          5,
+          "R0603",
+          "R3,R4,R5,R6,R7",
+          {
+            "Manufacturer Part": "RMC06031K1%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269704"
+          }
+        ],
+        [
+          "Reset",
+          1,
+          "SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6-1",
+          "RST",
+          {
+            "Manufacturer Part": "TS3425BA",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2681476"
+          }
+        ],
+        [
+          "ATMEGA328P-AU",
+          1,
+          "TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "ATMEGA328P-AU",
+            "Manufacturer": "MICROCHIP",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14877"
+          }
+        ],
+        [
+          "AMS1117",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "5V",
+          {
+            "Manufacturer Part": "AMS1117-5.0",
+            "Manufacturer": "Slkor(萨科微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C880753"
+          }
+        ],
+        [
+          "CH340N",
+          1,
+          "SOP-8_L5.0-W4.0-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "CH340N",
+            "Manufacturer": "WCH(Jiangsu Qin Heng)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C506813"
+          }
+        ],
+        [
+          "HT7333-3",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "3V",
+          {
+            "Manufacturer Part": "HT7333-3",
+            "Manufacturer": "HOLTEK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84207"
+          }
+        ],
+        [
+          "16MHz",
+          1,
+          "OSC-SMD_4P-L3.2-W2.5-BL",
+          "X1",
+          {
+            "Manufacturer Part": "X322516MLB4SI",
+            "Manufacturer": "YXC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13738"
+          }
+        ],
+        [
+          "TYPE-C16PIN",
+          1,
+          "USB-C-SMD_TYPE-C16PIN",
+          "USB1",
+          {
+            "Manufacturer Part": "TYPE-C16PIN",
+            "Manufacturer": "SHOU HAN",
+            "Supplier": "LCSC",
+            "Supplier Part": "C393939"
+          }
+        ]
+      ],
+      "updateTime": 1732347416,
+      "createTime": 1732084448,
+      "histories": [],
+      "created_at": "2024-11-20 14:34:08",
+      "updated_at": "2024-11-23 15:36:56"
+    },
+    {
+      "uuid": "c6772db4fe07f9457caa0a408f0ee638",
+      "puuid": "7c0b664edfb663888da73a5ccc20cfe4",
+      "title": "PCB_Project Espro Block IV",
+      "filename": "PCB_Project Espro Block IV.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 7,
+        "bcfb063b67ff49cbac709cca5af36bb2": 4,
+        "398691f1f785460098bbe5ee6590333c": 7,
+        "c0ec5daae71444bb93b95ec9f0b47f5a": 1,
+        "9c6dab9dc91e4b929269cb3454d6d713": 1,
+        "6d4ccf98d88248ecab1247f9e0c9ea9d": 1,
+        "b7243d11a5f04fb7894887aaa3569585": 1,
+        "89243c15a2974ba08305eced8ca2c9d4": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1,
+        "fde525906f004b04890fe3f9fe02cca8": 1,
+        "0d139e62728a49b09c74d4ad035ce944": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "06036D226MAT2A",
+            "Manufacturer": "AVX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C140720"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "JMK107ABJ106KA-T",
+            "Manufacturer": "Taiyo Yuden",
+            "Supplier": "LCSC",
+            "Supplier Part": "C319196"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C3,C4,C7",
+          {
+            "Manufacturer Part": "CL10C220JB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1653"
+          }
+        ],
+        [
+          "22pF",
+          2,
+          "C0603",
+          "C5,C6",
+          {
+            "Manufacturer Part": "CL10C220JB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1653"
+          }
+        ],
+        [
+          "SS36",
+          1,
+          "SMA_L4.3-W2.6-LS5.2-RD",
+          "D1",
+          {
+            "Manufacturer Part": "SS36",
+            "Manufacturer": "MDD",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16015"
+          }
+        ],
+        [
+          "X6511WV-15H-C30D60",
+          2,
+          "HDR-TH_15P-P2.54-V-M",
+          "H1,H2",
+          {
+            "Manufacturer Part": "X6511WV-15H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C725947"
+          }
+        ],
+        [
+          "X6511WV-06H-C30D60",
+          1,
+          "HDR-TH_6P-P2.54-V-M",
+          "H3",
+          {
+            "Manufacturer Part": "X6511WV-06H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C706878"
+          }
+        ],
+        [
+          "TX",
+          1,
+          "LED0603-RD_1",
+          "TX",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "RX",
+          1,
+          "LED0603-RD_1",
+          "RX",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "Power",
+          1,
+          "LED0603-RD_1",
+          "PW",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "D13",
+          1,
+          "LED0603-RD_1",
+          "D13",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "5.1K",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "Manufacturer Part": "RMC06035.1K5%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269696"
+          }
+        ],
+        [
+          "1K",
+          5,
+          "R0603",
+          "R3,R4,R5,R6,R7",
+          {
+            "Manufacturer Part": "RMC06031K1%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269704"
+          }
+        ],
+        [
+          "Reset",
+          1,
+          "SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6-1",
+          "RST",
+          {
+            "Manufacturer Part": "TS3425BA",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2681476"
+          }
+        ],
+        [
+          "ATMEGA328P-AU",
+          1,
+          "TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "ATMEGA328P-AU",
+            "Manufacturer": "MICROCHIP",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14877"
+          }
+        ],
+        [
+          "AMS1117",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "5V",
+          {
+            "Manufacturer Part": "AMS1117-5.0",
+            "Manufacturer": "Slkor(萨科微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C880753"
+          }
+        ],
+        [
+          "CH340N",
+          1,
+          "SOP-8_L5.0-W4.0-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "CH340N",
+            "Manufacturer": "WCH(Jiangsu Qin Heng)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C506813"
+          }
+        ],
+        [
+          "HT7333-3",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "3V",
+          {
+            "Manufacturer Part": "HT7333-3",
+            "Manufacturer": "HOLTEK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84207"
+          }
+        ],
+        [
+          "16MHz",
+          1,
+          "OSC-SMD_4P-L3.2-W2.5-BL",
+          "X1",
+          {
+            "Manufacturer Part": "X322516MLB4SI",
+            "Manufacturer": "YXC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13738"
+          }
+        ],
+        [
+          "TYPE-C16PIN",
+          1,
+          "USB-C-SMD_TYPE-C16PIN",
+          "USB1",
+          {
+            "Manufacturer Part": "TYPE-C16PIN",
+            "Manufacturer": "SHOU HAN",
+            "Supplier": "LCSC",
+            "Supplier Part": "C393939"
+          }
+        ]
+      ],
+      "updateTime": 1735906988,
+      "createTime": 1732520094,
+      "histories": [],
+      "created_at": "2024-11-25 15:34:54",
+      "updated_at": "2025-01-03 20:23:08"
+    },
+    {
+      "uuid": "55dfbe77fec3c84569c96afda4e60f14",
+      "puuid": "7c0b664edfb663888da73a5ccc20cfe4",
+      "title": "PCB_Project Espro Block V",
+      "filename": "PCB_Project Espro Block V.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 7,
+        "bcfb063b67ff49cbac709cca5af36bb2": 4,
+        "398691f1f785460098bbe5ee6590333c": 7,
+        "c0ec5daae71444bb93b95ec9f0b47f5a": 1,
+        "9c6dab9dc91e4b929269cb3454d6d713": 1,
+        "6d4ccf98d88248ecab1247f9e0c9ea9d": 1,
+        "b7243d11a5f04fb7894887aaa3569585": 1,
+        "89243c15a2974ba08305eced8ca2c9d4": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1,
+        "fde525906f004b04890fe3f9fe02cca8": 1,
+        "0d139e62728a49b09c74d4ad035ce944": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "06036D226MAT2A",
+            "Manufacturer": "AVX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C140720"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "JMK107ABJ106KA-T",
+            "Manufacturer": "Taiyo Yuden",
+            "Supplier": "LCSC",
+            "Supplier Part": "C319196"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C3,C4,C7",
+          {
+            "Manufacturer Part": "CL10C220JB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1653"
+          }
+        ],
+        [
+          "22pF",
+          2,
+          "C0603",
+          "C5,C6",
+          {
+            "Manufacturer Part": "CL10C220JB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1653"
+          }
+        ],
+        [
+          "SS36",
+          1,
+          "SMA_L4.3-W2.6-LS5.2-RD",
+          "D1",
+          {
+            "Manufacturer Part": "SS36",
+            "Manufacturer": "MDD",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16015"
+          }
+        ],
+        [
+          "X6511WV-15H-C30D60",
+          2,
+          "HDR-TH_15P-P2.54-V-M",
+          "H1,H2",
+          {
+            "Manufacturer Part": "X6511WV-15H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C725947"
+          }
+        ],
+        [
+          "X6511WV-06H-C30D60",
+          1,
+          "HDR-TH_6P-P2.54-V-M",
+          "H3",
+          {
+            "Manufacturer Part": "X6511WV-06H-C30D60",
+            "Manufacturer": "XKB Connectivity",
+            "Supplier": "LCSC",
+            "Supplier Part": "C706878"
+          }
+        ],
+        [
+          "TX",
+          1,
+          "LED0603-RD_1",
+          "TX",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "RX",
+          1,
+          "LED0603-RD_1",
+          "RX",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "Power",
+          1,
+          "LED0603-RD_1",
+          "PW",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "D13",
+          1,
+          "LED0603-RD_1",
+          "D13",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "5.1K",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "Manufacturer Part": "RMC06035.1K5%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269696"
+          }
+        ],
+        [
+          "1K",
+          5,
+          "R0603",
+          "R3,R4,R5,R6,R7",
+          {
+            "Manufacturer Part": "RMC06031K1%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269704"
+          }
+        ],
+        [
+          "Reset",
+          1,
+          "SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6-1",
+          "RST",
+          {
+            "Manufacturer Part": "TS3425BA",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2681476"
+          }
+        ],
+        [
+          "ATMEGA328P-AU",
+          1,
+          "TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "ATMEGA328P-AU",
+            "Manufacturer": "MICROCHIP",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14877"
+          }
+        ],
+        [
+          "AMS1117",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "5V",
+          {
+            "Manufacturer Part": "AMS1117-5.0",
+            "Manufacturer": "Slkor(萨科微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C880753"
+          }
+        ],
+        [
+          "CH340N",
+          1,
+          "SOP-8_L5.0-W4.0-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "CH340N",
+            "Manufacturer": "WCH(Jiangsu Qin Heng)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C506813"
+          }
+        ],
+        [
+          "HT7333-3",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "3V",
+          {
+            "Manufacturer Part": "HT7333-3",
+            "Manufacturer": "HOLTEK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84207"
+          }
+        ],
+        [
+          "16MHz",
+          1,
+          "OSC-SMD_4P-L3.2-W2.5-BL",
+          "X1",
+          {
+            "Manufacturer Part": "X322516MLB4SI",
+            "Manufacturer": "YXC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C13738"
+          }
+        ],
+        [
+          "TYPE-C16PIN",
+          1,
+          "USB-C-SMD_TYPE-C16PIN",
+          "USB1",
+          {
+            "Manufacturer Part": "TYPE-C16PIN",
+            "Manufacturer": "SHOU HAN",
+            "Supplier": "LCSC",
+            "Supplier Part": "C393939"
+          }
+        ]
+      ],
+      "updateTime": 1738914290,
+      "createTime": 1737276082,
+      "histories": [],
+      "created_at": "2025-01-19 16:41:22",
+      "updated_at": "2025-02-07 15:44:50"
+    }
+  ],
+  "sort": [
+    "6af61b88a43897bc5e620d3d67b204b5",
+    "634cf6f61788c49f12a14e433e5b721a"
+  ],
+  "title": "Project Espro",
+  "foldername": "Project Espro",
+  "schfilename": "Project Espro.json",
+  "schfilemtime": 1742971426930
+}
